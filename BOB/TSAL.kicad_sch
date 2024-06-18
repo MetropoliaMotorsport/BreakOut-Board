@@ -564,7 +564,7 @@
 			(uuid "b4ea0145-dad1-44c8-afe6-914c22151bcb")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/d014fb4b-77e3-45a6-8252-31d818a2777e"
 					(reference "J9")
 					(unit 1)
@@ -642,7 +642,7 @@
 			(uuid "07b9eb3a-f0f6-4f47-802f-e426c23c7f1e")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/d014fb4b-77e3-45a6-8252-31d818a2777e"
 					(reference "J10")
 					(unit 1)
@@ -720,7 +720,7 @@
 			(uuid "b1f0bc19-87bd-4b4e-b19b-2e6405155ee6")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/d014fb4b-77e3-45a6-8252-31d818a2777e"
 					(reference "J14")
 					(unit 1)
@@ -798,7 +798,7 @@
 			(uuid "c1b457f2-a986-44f7-9bc8-b4c0bdc6698b")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/d014fb4b-77e3-45a6-8252-31d818a2777e"
 					(reference "J13")
 					(unit 1)
@@ -870,7 +870,7 @@
 			(uuid "8df68edc-663d-4353-a4bc-cba5ad639c59")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/d014fb4b-77e3-45a6-8252-31d818a2777e"
 					(reference "J11")
 					(unit 1)
@@ -942,7 +942,7 @@
 			(uuid "e27c6433-5805-4ae5-a050-c145687c043d")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/d014fb4b-77e3-45a6-8252-31d818a2777e"
 					(reference "J12")
 					(unit 1)

@@ -665,7 +665,7 @@
 		)
 		(uuid "1f0e656e-beb0-4cd4-a795-6305579ae3df")
 	)
-	(hierarchical_label "CAN2HI"
+	(hierarchical_label "CAN1HI"
 		(shape input)
 		(at 73.66 91.44 0)
 		(fields_autoplaced yes)
@@ -1025,7 +1025,7 @@
 		)
 		(uuid "83f5cd39-ac05-46b0-9d47-876632611777")
 	)
-	(hierarchical_label "CAN1LO"
+	(hierarchical_label "CAN2LO"
 		(shape input)
 		(at 73.66 88.9 0)
 		(fields_autoplaced yes)
@@ -1265,7 +1265,7 @@
 		)
 		(uuid "c85edbee-ff75-4902-a660-611ac0640d29")
 	)
-	(hierarchical_label "CAN2LO"
+	(hierarchical_label "CAN1LO"
 		(shape input)
 		(at 73.66 93.98 0)
 		(fields_autoplaced yes)
@@ -1349,7 +1349,7 @@
 		)
 		(uuid "df593045-72de-457c-8aa7-00602337f49c")
 	)
-	(hierarchical_label "CAN1HI"
+	(hierarchical_label "CAN2HI"
 		(shape input)
 		(at 73.66 86.36 0)
 		(fields_autoplaced yes)
@@ -1568,7 +1568,7 @@
 			(uuid "584c2035-0e25-41d0-9334-b13b860d295c")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/19fd4075-dd4d-4067-8759-fda66f6da0cb"
 					(reference "J2")
 					(unit 1)
@@ -1687,7 +1687,7 @@
 			(uuid "72c1d575-9806-4c92-bd5e-11eb51ef91e0")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/19fd4075-dd4d-4067-8759-fda66f6da0cb"
 					(reference "J6")
 					(unit 1)
@@ -1806,7 +1806,7 @@
 			(uuid "30b99c41-d66b-45a7-8011-4f45132e9d31")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/19fd4075-dd4d-4067-8759-fda66f6da0cb"
 					(reference "J5")
 					(unit 1)
@@ -1925,7 +1925,7 @@
 			(uuid "77fb7e29-cd3d-434f-9080-f30b4bc7012f")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51/19fd4075-dd4d-4067-8759-fda66f6da0cb"
 					(reference "J7")
 					(unit 1)

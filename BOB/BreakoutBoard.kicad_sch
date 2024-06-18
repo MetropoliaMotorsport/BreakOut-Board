@@ -2392,7 +2392,7 @@
 		)
 		(uuid "0592ef1b-af0b-46d5-952e-db173aec1a90")
 	)
-	(label "CAN1LO"
+	(label "CAN2LO"
 		(at 66.04 208.28 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2414,7 +2414,7 @@
 		)
 		(uuid "084cd565-4cab-437f-8603-ebd549123398")
 	)
-	(label "CAN2LO"
+	(label "CAN1LO"
 		(at 83.82 113.03 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2634,7 +2634,7 @@
 		)
 		(uuid "2fcd0c85-4baf-41d7-ba4c-3b813c998569")
 	)
-	(label "CAN2LO"
+	(label "CAN1LO"
 		(at 66.04 203.2 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2854,7 +2854,7 @@
 		)
 		(uuid "4eb644a6-c8fe-4091-a68d-9d2452d7a124")
 	)
-	(label "CAN2HI"
+	(label "CAN1HI"
 		(at 66.04 205.74 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2887,7 +2887,7 @@
 		)
 		(uuid "5074e416-dd69-4478-8e7a-33c118efaa54")
 	)
-	(label "CAN2HI"
+	(label "CAN1HI"
 		(at 83.82 110.49 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3019,7 +3019,7 @@
 		)
 		(uuid "6b105a3d-4077-431b-b844-7f8d333bdeba")
 	)
-	(label "CAN1LO"
+	(label "CAN2LO"
 		(at 83.82 106.68 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3052,7 +3052,7 @@
 		)
 		(uuid "7043062b-e84f-47fe-a89e-f51a401e783e")
 	)
-	(label "CAN1HI"
+	(label "CAN2HI"
 		(at 83.82 104.14 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3063,7 +3063,7 @@
 		)
 		(uuid "7558b18e-e3bf-487b-8842-1546b37d4f7a")
 	)
-	(label "CAN1HI"
+	(label "CAN2HI"
 		(at 66.04 210.82 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3982,7 +3982,7 @@
 			(uuid "292d076a-a80f-41d0-bad2-33a6ee764c3c")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51"
 					(reference "J1")
 					(unit 1)
@@ -4238,7 +4238,7 @@
 			(uuid "fade54f0-8d0a-4082-9e4b-1140298f1820")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51"
 					(reference "J8")
 					(unit 1)
@@ -4494,7 +4494,7 @@
 			(uuid "f5eae74a-219b-4cd9-89c3-eb778fedbdfa")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51"
 					(reference "J3")
 					(unit 1)
@@ -4622,7 +4622,7 @@
 			)
 			(uuid "02de9f0f-77a8-420c-8665-a5ff8c99a0ae")
 		)
-		(pin "CAN1HI" input
+		(pin "CAN2HI" input
 			(at 96.52 104.14 180)
 			(effects
 				(font
@@ -4632,7 +4632,7 @@
 			)
 			(uuid "f072eba2-2411-4456-9696-58e2fd5f617f")
 		)
-		(pin "CAN2HI" input
+		(pin "CAN1HI" input
 			(at 96.52 110.49 180)
 			(effects
 				(font
@@ -4642,7 +4642,7 @@
 			)
 			(uuid "8e51ddf8-97a3-4286-a3c8-7839a929784a")
 		)
-		(pin "CAN1LO" input
+		(pin "CAN2LO" input
 			(at 96.52 106.68 180)
 			(effects
 				(font
@@ -4652,7 +4652,7 @@
 			)
 			(uuid "26e2e0e3-4aa5-4a4f-ad52-98d7d155b183")
 		)
-		(pin "CAN2LO" input
+		(pin "CAN1LO" input
 			(at 96.52 113.03 180)
 			(effects
 				(font
@@ -5043,7 +5043,7 @@
 			(uuid "9f41b0bb-dec4-49cc-8df1-dbb7d56d7663")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51"
 					(page "1")
 				)
@@ -5151,7 +5151,7 @@
 			(uuid "45921fd6-40b2-4c1d-b3e3-247d06cf56cd")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51"
 					(page "2")
 				)
@@ -5279,7 +5279,7 @@
 			(uuid "f8b24944-e849-46a1-a5f8-f6f4d3287d8f")
 		)
 		(instances
-			(project "BreakoutBoard 2.0"
+			(project "BreakoutBoard"
 				(path "/87e019e3-1d3d-4a6f-8f4c-3dee61e63c51"
 					(page "3")
 				)
