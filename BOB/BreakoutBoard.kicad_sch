@@ -5,7 +5,440 @@
 	(uuid "87e019e3-1d3d-4a6f-8f4c-3dee61e63c51")
 	(paper "A3")
 	(lib_symbols
-		(symbol "1706013:1706013"
+		(symbol "Connector:10_pin_7.62_Phoenix"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J8"
+				(at 12.446 -26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "~"
+				(at 11.43 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "Connector:1700884"
+				(at 19.05 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.phoenixcontact.com/online/portal/us/?uri=pxc-oc-itemdetail:pid=1868115&library=usen&pcck=P-11-01-05&tab=1&selectedCategory=ALL"
+				(at 19.05 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 19.05 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "10_pin_7.62_Phoenix_0_0"
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 0)
+					(length 5.08)
+					(name "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 0)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -15.24 0)
+					(length 5.08)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -17.78 0)
+					(length 5.08)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -20.32 0)
+					(length 5.08)
+					(name "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "10_pin_7.62_Phoenix_1_0"
+				(pin passive line
+					(at 22.86 0 180)
+					(length 5.08)
+					(name "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -2.54 180)
+					(length 5.08)
+					(name "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -5.08 180)
+					(length 5.08)
+					(name "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -7.62 180)
+					(length 5.08)
+					(name "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -10.16 180)
+					(length 5.08)
+					(name "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -12.7 180)
+					(length 5.08)
+					(name "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -15.24 180)
+					(length 5.08)
+					(name "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -17.78 180)
+					(length 5.08)
+					(name "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -20.32 180)
+					(length 5.08)
+					(name "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -22.86 180)
+					(length 5.08)
+					(name "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "10_pin_7.62_Phoenix_1_1"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 17.78 2.54) (xy 17.78 -25.4) (xy 5.08 -25.4) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+		)
+		(symbol "Connector:35_con_Phoenix"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -18,7 +451,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "1706013"
+			(property "Value" "35_con_Phoenix"
 				(at 7.62 6.35 0)
 				(effects
 					(font
@@ -28,7 +461,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "Connector_Phoenix_SPT:1706013"
+			(property "Footprint" "Connector_Phoenix_SPT:35_con_Phoenix"
 				(at 19.05 -94.92 0)
 				(effects
 					(font
@@ -48,7 +481,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "PCB terminal block, nominal current: 6 A 160 V number of potentials: 20 pitch: 2.54 mm"
+			(property "Description" ""
 				(at 0.508 9.398 0)
 				(effects
 					(font
@@ -57,77 +490,7 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "12.6"
-				(at 19.05 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Phoenix Contact"
-				(at 19.05 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "1706013"
-				(at 19.05 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "651-1706013"
-				(at 19.05 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1706013"
-				(at 19.05 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 19.05 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 19.05 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "1706013_1_1"
+			(symbol "35_con_Phoenix_1_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 17.78 -88.9)
@@ -1401,439 +1764,6 @@
 				)
 			)
 		)
-		(symbol "Connector:1868115"
-			(pin_names
-				(offset 0.762)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J18"
-				(at 11.176 4.318 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "~"
-				(at 11.43 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" ""
-				(at 19.05 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.phoenixcontact.com/online/portal/us/?uri=pxc-oc-itemdetail:pid=1868115&library=usen&pcck=P-11-01-05&tab=1&selectedCategory=ALL"
-				(at 19.05 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 19.05 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(symbol "1868115_0_0"
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -22.86 0)
-					(length 5.08)
-					(name "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -10.16 0)
-					(length 5.08)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -12.7 0)
-					(length 5.08)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -15.24 0)
-					(length 5.08)
-					(name "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -17.78 0)
-					(length 5.08)
-					(name "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -20.32 0)
-					(length 5.08)
-					(name "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "1868115_1_0"
-				(pin passive line
-					(at 22.86 0 180)
-					(length 5.08)
-					(name "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -2.54 180)
-					(length 5.08)
-					(name "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -5.08 180)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -7.62 180)
-					(length 5.08)
-					(name "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -10.16 180)
-					(length 5.08)
-					(name "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -12.7 180)
-					(length 5.08)
-					(name "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -15.24 180)
-					(length 5.08)
-					(name "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -17.78 180)
-					(length 5.08)
-					(name "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -20.32 180)
-					(length 5.08)
-					(name "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -22.86 180)
-					(length 5.08)
-					(name "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "1868115_1_1"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 17.78 2.54) (xy 17.78 -25.4) (xy 5.08 -25.4) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-		)
 	)
 	(no_connect
 		(at 147.32 236.22)
@@ -1848,6 +1778,10 @@
 		(uuid "0ae2e0a5-c53f-4fe8-9ebf-c77ae0096cf5")
 	)
 	(no_connect
+		(at 147.32 246.38)
+		(uuid "0cff4a91-ede5-4786-b2ad-fa4ccd41e986")
+	)
+	(no_connect
 		(at 147.32 208.28)
 		(uuid "0e8513eb-8430-4b88-b117-695dea5880d0")
 	)
@@ -1856,12 +1790,36 @@
 		(uuid "101e12cf-31eb-4e71-8ab7-2bf89766ec60")
 	)
 	(no_connect
+		(at 147.32 259.08)
+		(uuid "10c878e4-02ac-4f5a-8776-278afeeec2ba")
+	)
+	(no_connect
+		(at 127 138.43)
+		(uuid "11159725-8d42-4bea-b069-74a3717dacd3")
+	)
+	(no_connect
+		(at 120.65 138.43)
+		(uuid "20010ba5-c252-4729-8b18-cb4d67e9beca")
+	)
+	(no_connect
 		(at 147.32 238.76)
 		(uuid "2a43ad47-575b-4310-a4b3-d0144badeefa")
 	)
 	(no_connect
+		(at 147.32 254)
+		(uuid "3108a4ac-6dda-4a6c-af7c-b96d88fcef37")
+	)
+	(no_connect
 		(at 99.06 193.04)
 		(uuid "35d803b9-a967-420a-a2f8-a0b7020a1b9a")
+	)
+	(no_connect
+		(at 147.32 251.46)
+		(uuid "3846768f-0ee2-4019-90e8-431b064d6bbe")
+	)
+	(no_connect
+		(at 147.32 243.84)
+		(uuid "3915e2e6-ad6b-48e1-8c55-dfe3576f9f1c")
 	)
 	(no_connect
 		(at 147.32 228.6)
@@ -1870,6 +1828,10 @@
 	(no_connect
 		(at 99.06 180.34)
 		(uuid "52ad2d9a-3b41-43ae-9bc6-d97ffa9cea82")
+	)
+	(no_connect
+		(at 124.46 138.43)
+		(uuid "67483d99-c428-4f67-88cc-02771b039193")
 	)
 	(no_connect
 		(at 147.32 175.26)
@@ -1882,6 +1844,10 @@
 	(no_connect
 		(at 147.32 182.88)
 		(uuid "713d248f-b86e-439f-b833-3e9f2c01dae1")
+	)
+	(no_connect
+		(at 137.16 138.43)
+		(uuid "74776de5-9445-458a-9344-294917616bf9")
 	)
 	(no_connect
 		(at 99.06 172.72)
@@ -1912,8 +1878,16 @@
 		(uuid "8bbd8e78-18bf-4fb1-8ec6-ea62b66354fb")
 	)
 	(no_connect
+		(at 139.7 138.43)
+		(uuid "9666c42c-a000-4f83-8bde-99d01b8fcec0")
+	)
+	(no_connect
 		(at 147.32 205.74)
 		(uuid "98045375-4cab-44a8-a6fb-b569d739d5fc")
+	)
+	(no_connect
+		(at 147.32 241.3)
+		(uuid "98dc0a49-bd9c-4522-8970-933626c5a986")
 	)
 	(no_connect
 		(at 147.32 233.68)
@@ -1936,12 +1910,24 @@
 		(uuid "be068e43-3bfb-4c7d-9ad7-0fc055cca859")
 	)
 	(no_connect
+		(at 147.32 248.92)
+		(uuid "d01dc217-c3fb-45a6-9c2b-0d88510f5988")
+	)
+	(no_connect
+		(at 118.11 138.43)
+		(uuid "d7120791-854b-4ea1-8c84-21dbfc6b94c6")
+	)
+	(no_connect
 		(at 147.32 200.66)
 		(uuid "d7ee8269-fb4e-4c28-8086-cf9e74becae3")
 	)
 	(no_connect
 		(at 147.32 195.58)
 		(uuid "d8234c50-c272-40d0-a94d-04258f73cbf6")
+	)
+	(no_connect
+		(at 133.35 138.43)
+		(uuid "dc45d825-271e-47dc-8b4c-3de1ec0496ba")
 	)
 	(no_connect
 		(at 147.32 213.36)
@@ -1954,6 +1940,10 @@
 	(no_connect
 		(at 147.32 220.98)
 		(uuid "df29f167-1d14-43ac-8b42-2921f7bb6d6c")
+	)
+	(no_connect
+		(at 130.81 138.43)
+		(uuid "df550418-5978-4098-a975-08b8cb6188df")
 	)
 	(no_connect
 		(at 147.32 193.04)
@@ -1974,6 +1964,10 @@
 	(no_connect
 		(at 147.32 177.8)
 		(uuid "f2bbdfc7-29e9-40f3-b7c8-721315a5c116")
+	)
+	(no_connect
+		(at 147.32 256.54)
+		(uuid "f35ba793-cb9a-4159-8ea4-2cb61539c0f0")
 	)
 	(no_connect
 		(at 147.32 198.12)
@@ -2112,6 +2106,16 @@
 			(type default)
 		)
 		(uuid "2bf4e74a-0faf-4b33-8fad-418320e04d67")
+	)
+	(wire
+		(pts
+			(xy 118.11 138.43) (xy 118.11 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e0db4dd-6d67-438c-9795-099d6fd3a5fd")
 	)
 	(wire
 		(pts
@@ -2325,16 +2329,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 125.73) (xy 118.11 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "564260b1-09ad-4a37-bf7e-4403e519ea49")
-	)
-	(wire
-		(pts
 			(xy 170.18 218.44) (xy 191.77 218.44)
 		)
 		(stroke
@@ -2395,7 +2389,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 125.73) (xy 127 139.7)
+			(xy 127 125.73) (xy 127 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2505,7 +2499,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 125.73) (xy 124.46 139.7)
+			(xy 124.46 125.73) (xy 124.46 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2595,7 +2589,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 125.73) (xy 120.65 139.7)
+			(xy 120.65 125.73) (xy 120.65 138.43)
 		)
 		(stroke
 			(width 0)
@@ -3529,6 +3523,17 @@
 		)
 		(uuid "6819036d-3ce5-4f79-afba-e70b25590ac9")
 	)
+	(label "Vin"
+		(at 251.46 111.76 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6dbfcbc2-b708-41b8-9728-1169cdbc2f84")
+	)
 	(label "GND"
 		(at 156.21 127 270)
 		(fields_autoplaced yes)
@@ -4134,17 +4139,6 @@
 		)
 		(uuid "f4e6c7a7-f58f-426c-b67a-6fd8dfae7798")
 	)
-	(label "OUT0_1"
-		(at 251.46 111.76 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f546d23a-03fd-4574-b46a-e72d34944434")
-	)
 	(label "AnIN24V_1"
 		(at 171.45 218.44 0)
 		(fields_autoplaced yes)
@@ -4168,7 +4162,7 @@
 		(uuid "fc6f4806-f35f-4fd3-8d22-46a9ce84b52e")
 	)
 	(symbol
-		(lib_id "Connector:1868115")
+		(lib_id "Connector:10_pin_7.62_Phoenix")
 		(at 121.92 195.58 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4293,7 +4287,7 @@
 		)
 	)
 	(symbol
-		(lib_id "1706013:1706013")
+		(lib_id "Connector:35_con_Phoenix")
 		(at 147.32 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4320,7 +4314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_SPT:1706013"
+		(property "Footprint" "Connector_Phoenix_SPT:35_con_Phoenix"
 			(at 166.37 267.64 0)
 			(effects
 				(font
@@ -4340,82 +4334,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "PCB terminal block, nominal current: 6 A 160 V number of potentials: 20 pitch: 2.54 mm"
+		(property "Description" ""
 			(at 147.828 163.322 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Height" "12.6"
-			(at 166.37 567.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Phoenix Contact"
-			(at 166.37 667.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "1706013"
-			(at 166.37 767.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "651-1706013"
-			(at 166.37 867.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1706013"
-			(at 166.37 967.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 166.37 1067.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 166.37 1167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 				(hide yes)
 			)
 		)

@@ -235,7 +235,24 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "simulation_model_issue|1066800|901700|38aa371a-5cf4-449b-94ed-3d107a1ffacb|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1206500|1054100|c53c6799-c0c7-4883-95a2-089b3bbbcb44|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1219200|1955800|92fbc0e5-685e-4add-9106-0598fee135d9|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1231900|1054100|c163acbb-d9b1-423d-8c2c-a1ee615b735c|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1270000|901700|e33e1152-8dca-40f3-ab78-7b2df0369ebc|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1460500|1054100|e235c960-8a2a-4fd9-bffc-de97b9ba7825|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1473200|1727200|e89563c5-3324-4379-aecf-d5629ef917cc|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1498600|901700|3d7839b9-183f-4be5-8810-1811a386cf03|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1511300|1054100|f51cfe02-0168-4ff2-b86d-8bb688fbdee6|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1701800|901700|1309225f-565b-4aff-9ddb-53ad68fb632a|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1765300|1079500|59f15872-0ccf-4a52-8453-3ce3fc70d486|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|1917700|901700|b9f3f338-4355-4de1-ad3d-0a76b2e56ddb|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|2095500|1079500|4c1cf594-538d-4b29-8c3b-28224e29f3f4|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|698500|1079500|1089ba12-d1fd-4bd8-80b0-3166f6b23c61|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|825500|901700|9da8a247-662a-4b41-b295-93c0020d19fb|00000000-0000-0000-0000-000000000000|||",
+      "simulation_model_issue|952500|1079500|2d2ece33-429a-49b3-8221-22ed81828a67|00000000-0000-0000-0000-000000000000|||"
+    ],
     "meta": {
       "version": 0
     },
@@ -450,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BreakoutBoard 2.0.kicad_pro",
+    "filename": "BreakoutBoard.kicad_pro",
     "version": 1
   },
   "net_settings": {
